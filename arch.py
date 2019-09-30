@@ -26,7 +26,7 @@ train_size, validation_size, test_size = 60, 40, 40
 
 # Deeplearning model variables
 batch_size = 32
-epochs = 150
+epochs = 100
 
 # Set directories for train, test and validation image paths
 base_dir = 'data'
